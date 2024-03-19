@@ -1,0 +1,20 @@
+# Ignore the /proj folder
+/proj/
+
+# Ignore submission.py in the root directory
+/submission.py
+
+# Ignore png files
+*.png
+
+# Ignore jpg files
+*.jpg
+
+# Ignore npz files
+*.npz
+
+# Ignore npy files
+*.npy
+
+# Ignore zip files
+*.zip 
